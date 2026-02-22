@@ -6,6 +6,11 @@
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> | 백엔드 주니어 개발자 최준혁입니다.</li> </div> 
     </div>
     <div style="text-align: left;">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏫 Affiliations & Activity </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> Gachon University | Computer Engineering (2021.03 ~ ing.) </li> </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> Korea IT Academy | IT Academy (2024.03 ~ 2024.09) </li> </div> 
+    </div>
+    <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
     <div  align= "center"> <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white">
           <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white">
@@ -19,7 +24,7 @@
           <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white">
           <br/><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
           <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white">
-          <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white">
+          <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white">
           </div>
     </div>
     <div style="text-align: left;">
